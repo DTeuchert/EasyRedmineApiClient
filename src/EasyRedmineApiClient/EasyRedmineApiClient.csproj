@@ -4,6 +4,17 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <LangVersion>11</LangVersion>
+        <PackageId>EasyRedmineApiClient</PackageId>
+        <Version>0.1.0</Version>  
+        <Description>EasyRedmineApiClient is a .NET rest client for EasyRedmine Api.</Description>
+        <Authors>dteuchert</Authors>
+        <Company>dteuchert</Company>
+        <PackageProjectUrl>https://github.com/DTeuchert/EasyRedmineApiClient</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/DTeuchert/EasyRedmineApiClient</RepositoryUrl>
+        <PackageTags>EasyRedmine REST API CI Client</PackageTags>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <IncludeSymbols>true</IncludeSymbols>
+        <SymbolPackageFormat>snupkg</SymbolPackageFormat>
     </PropertyGroup>
 
     <ItemGroup>

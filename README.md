@@ -1,5 +1,5 @@
 # EasyRedmineApiClient
-
+[![NuGet](https://img.shields.io/nuget/v/EasyRedmineApiClient.svg)](https://nuget.org/packages/EasyRedmineApiClient)
 
 EasyRedmineApiClient is a .NET rest client for [EasyRedmine API](https://www.easyredmine.com/resources/rest-api).
 
